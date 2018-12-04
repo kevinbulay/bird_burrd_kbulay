@@ -1,4 +1,18 @@
-# bird_burrd_kbulay
+#Panzerbande Scurry Burrd Game
 
-sounds von freesound.org
-danke
+*sounds von freesound.org
+*tutorial: https://www.youtube.com/watch?v=A-GkNM8M5p8&t=6613s
+*unity version 2018 2.8f1
+*graphic design by kevin bulay (https://kevinbulay.at)
+*platform: WebGL
+
+#Screenshots
+
+![app screenshot](/Screenshot/screenshot1.png)
+![app screenshot](/Screenshot/screenshot2.png)
+![app screenshot](/Screenshot/screenshot3.png)
+![app screenshot](/Screenshot/screenshot4.png)
+
+play on https://kevinbulay.at/scurry_burrd
+
+##danke
